@@ -2,6 +2,7 @@
   "name": "tutorial-security-nodejs-snyk-github",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "example-express": "node ./src/express/index.js",
