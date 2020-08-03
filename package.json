@@ -1,0 +1,32 @@
+{
+  "name": "tutorial-security-nodejs-snyk-github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "example-express": "node ./src/express/index.js",
+    "example-jsonwebtoken": "node ./src/jsonwebtoken/index.js",
+    "example-moment": "node ./src/moment/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJPR/tutorial-security-nodejs-snyk-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseJPR/tutorial-security-nodejs-snyk-github/issues"
+  },
+  "homepage": "https://github.com/JoseJPR/tutorial-security-nodejs-snyk-github#readme",
+  "dependencies": {
+    "express": "4.14.0",
+    "jsonwebtoken": "7.2.0",
+    "moment": "2.16.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
