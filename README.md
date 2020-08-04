@@ -20,15 +20,13 @@
   <br />
 </p>
 
-<!--
 <p align="center">
   <img src="assets/video.gif" />
 </p>
--->
 
 ## 🔖 Description
 
-In this tutorial I want to show you how you can link your **Github** account with **Snyk** and improve the security of your **NodeJS** projects by following the instructions that Snyk shows you.
+In this tutorial I want to show you how to link your **Github** account with **Snyk** and how to increase the security of your **NodeJS** projects.
 
 ## ✅ Prerequisites
 
@@ -39,7 +37,7 @@ In order to work with this project, your local environment must have at least th
 
 ## 📐 How to work with this project in Snyk and Github
 
-First of all you must have create a user account in **[Snyk](https://app.snyk.io/login)** with your **Github** account.
+First of all you need to create an user account in **[Snyk](https://app.snyk.io/login)** with your **Github** account.
 
 1️⃣ In this tutorial you can see that we have these dependencies in the "package.json" file:
 
@@ -77,15 +75,15 @@ In the following link you can read more info about [Semantic Versioning](https:/
 
 The following video shows how you can create a Snyk Account with Github.
 
-[![Video](./assets/youtube.svg)](https://youtu.be/xxx)
+[![Video](./assets/youtube.svg)](https://youtu.be/zzPkK29_EGM)
 
-How the circumflex ^ can to resolver severals vulnerabilities of our proyects.
+How the circumflex ^ can resolve several vulnerabilities of our projects.
 
-[![Video](./assets/youtube.svg)](https://youtu.be/xxx)
+[![Video](./assets/youtube.svg)](https://youtu.be/O-iViujLoQw)
 
 We can remove all vulnerabilities by reviewing the dependencies and updating them to a higher version.
 
-[![Video](./assets/youtube.svg)](https://youtu.be/xxx)
+[![Video](./assets/youtube.svg)](https://youtu.be/Vy3uPbH6WX8)
 
 ## 📂 Code Scaffolding
 
@@ -100,9 +98,9 @@ We can remove all vulnerabilities by reviewing the dependencies and updating the
 └── ...
 ```
 
-## ⛽️ Review and Update Sependencies
+## ⛽️ Review and Update Dependencies
 
-For review and update all npm dependencies of this project you need install in global npm package "npm-check-updates" npm module.
+To review and update all of this project's npm dependencies you will need to install globally the "npm-check-updates" package.
 
 ```bash
 # Install and Run
