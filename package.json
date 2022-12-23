@@ -22,7 +22,7 @@
   "homepage": "https://github.com/JoseJPR/tutorial-security-nodejs-snyk-github#readme",
   "dependencies": {
     "express": "^4.14.0",
-    "jsonwebtoken": "^8.0.0",
+    "jsonwebtoken": "^9.0.0",
     "moment": "^2.16.0"
   },
   "devDependencies": {
